@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 🙋‍♂️
+
+I'm a college student living in the United States who is learning how to code. I love making and designing tools to protect online chat communities such as Discord with Java, Kotlin, and Python. It's fun to code things that deliver both robust functionality as well as an intuitive and clean UI that gets taken for granted. I love it when I can finally solve a difficult problem.
+
+- 🌱 I’m currently learning database management and cloud computation.
+- ⚡ Fun fact: I once solved a formerly unsolved math problem using Java.
+- 🐈 I absolutely love and adore cats!
+
+[![redParrot17's Github Stats](https://github-readme-stats.vercel.app/api?username=redParrot17)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **redParrot17/redParrot17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
